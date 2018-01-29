@@ -1,6 +1,5 @@
-This repository has no code. It is about 'edit exclusive' or 'edit private' with Network automation.
-
-# Should we use 'edit exclusive' or 'edit private' with Network automation?  
+This repository has no code. It is about 'edit exclusive' or 'edit private' with Network automation.  
+So, should we use 'edit exclusive' or 'edit private' with Network automation?  
 
 ### Introduction  
 Junos supports various ‘edit’ options. Should we use 'edit exclusive' or 'edit private' with Network automation? There is no "one size fits all" solution to this question. However, here are the recommendations.  
@@ -86,7 +85,7 @@ Without a workflow that ensures a "single source of authority" for each section 
 
 In both scenarios, the automation should handle the conflicts.   
 
-# Looking for help with Junos automation:
+### Looking for help with Junos automation:
 
 https://github.com/ksator?tab=repositories  
 https://gitlab.com/users/ksator/projects  
