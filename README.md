@@ -1,3 +1,5 @@
+This repository has no code. It is about 'edit exclusive' or 'edit private' with Network automation.
+
 # Should we use 'edit exclusive' or 'edit private' with Network automation?  
 
 ### Introduction  
