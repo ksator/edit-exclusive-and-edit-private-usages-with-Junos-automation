@@ -1,11 +1,11 @@
 ### Documentation structure
-[**About this repository**](README.md#about-this-repository)
-[**Introduction**](README.md#introduction)
-[**Various 'edit' options available**](README.md#various-edit-options-available)
-[**"configure exclusive" workflow with automation**](README.md#configure-exclusive-workflow-with-automation)
-[**"configure private" workflow with automation**](README.md#configure-private-workflow-with-automation)
-[**Conclusion**](README.md#conclusion)
-[**Looking for help with Junos automation:**](README.md#looking-for-help-with-junos-automation)
+[**About this repository**](README.md#about-this-repository)  
+[**Introduction**](README.md#introduction)  
+[**Various 'edit' options available**](README.md#various-edit-options-available)  
+[**"configure exclusive" workflow with automation**](README.md#configure-exclusive-workflow-with-automation)  
+[**"configure private" workflow with automation**](README.md#configure-private-workflow-with-automation)  
+[**Conclusion**](README.md#conclusion)  
+[**Looking for help with Junos automation:**](README.md#looking-for-help-with-junos-automation)  
 
 ### About this repository
 This repository has no code. It is about 'edit exclusive' and 'edit private' usage with Network automation.  
